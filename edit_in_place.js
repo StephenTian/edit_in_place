@@ -1,6 +1,6 @@
 /*
 * 就地编辑组件
-* created by csh
+* created by stephen
 * 2016-8-23
 * 每个人都有保持代码优雅的责任
 */
